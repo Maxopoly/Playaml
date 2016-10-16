@@ -2,12 +2,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.github.civcraft</groupId>
-	<artifactId>PLUGIN_NAME_REPLACE_ME</artifactId>
+	<groupId>com.github.maxopoly</groupId>
+	<artifactId>Playaml</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0</version>
-	<name>PLUGIN_NAME_REPLACE_ME</name>
-	<url>https://github.com/maxopoly/PLUGIN_NAME_REPLACE_ME</url>
+	<name>Playaml</name>
+	<url>https://github.com/maxopoly/Playaml</url>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>vg.civcraft.mc.civmodcore</groupId>
 			<artifactId>CivModCore</artifactId>
-			<version>1.4.43</version>
+			<version>1.5.03</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>

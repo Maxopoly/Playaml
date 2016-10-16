@@ -1,6 +1,6 @@
 name: ${project.name}
-main: com.github.civcraft.PLUGIN_NAME_CHANGE_ME.MAIN_PLUGIN_CLASS
-author: YOUR_NAME_GOES_HERE
+main: com.github.civcraft.playaml.PlayamlPlugin
+author: Maxopoly
 version: ${project.version}
 depend: [CivModCore]
 softdepend: []

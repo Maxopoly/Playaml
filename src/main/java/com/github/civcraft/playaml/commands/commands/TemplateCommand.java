@@ -1,4 +1,4 @@
-package com.github.civcraft.PLUGIN_NAME_REPLACE_ME.commands.commands;
+package com.github.civcraft.playaml.commands.commands;
 
 import java.util.List;
 

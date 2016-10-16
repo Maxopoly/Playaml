@@ -1,7 +1,7 @@
-package com.github.civcraft.PLUGIN_NAME_REPLACE_ME.commands;
+package com.github.civcraft.playaml.commands;
 import vg.civcraft.mc.civmodcore.command.CommandHandler;
 
-public class CustomCommandHandler extends CommandHandler {
+public class PlayamlCommandHandler extends CommandHandler {
     
     //renaming this class to avoid conflicts with other plugins made based on this dummy is recommended, but not mandatory
 
