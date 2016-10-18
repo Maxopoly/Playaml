@@ -33,26 +33,30 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.spigotmc</groupId>
-			<artifactId>spigot</artifactId>
+			<artifactId>spigot-api</artifactId>
 			<version>1.10-R0.1-SNAPSHOT</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>vg.civcraft.mc.civmodcore</groupId>
 			<artifactId>CivModCore</artifactId>
-			<version>1.5.03</version>
+			<version>1.5.01</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 
 	<repositories>
 		<repository>
-			<id>spigot-repo</id>
-			<url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+			<id>civcraft-repo</id>
+			<url>http://build.civcraft.co:8080/plugin/repository/everything/</url>
 		</repository>
 		<repository>
-			<id>Jenkins-repo</id>
-			<url>http://build.civcraft.co:8080/plugin/repository/everything/</url>
+			<id>spigot-repo</id>
+			<url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
+		</repository>
+		<repository>
+			<id>spigot-repo2</id>
+			<url>https://hub.spigotmc.org/nexus/content/repositories/snapshots</url>
 		</repository>
 	</repositories>
 </project>
